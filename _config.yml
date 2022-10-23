@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Xilin Jia's Musing
-email: dx.jia1+gh@gmail.com
+title: Réverbération de Xilin Jia
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -39,7 +39,7 @@ disqus:
 # Build settings
 # theme: minima
 remote_theme: jekyll/minima
-
+    
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -53,6 +53,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
+#   - tag/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
