@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 included: true
-order: 3
+order: 4
 ---
 
 ### Education
