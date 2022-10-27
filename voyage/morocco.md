@@ -14,7 +14,8 @@ Largest city and commercial center in the country.  Famous from the homonymous m
 ### [Rabat](https://goo.gl/maps/8gTqWGfWWSZLUmpY9)   
 The capital of the country.
 
-### [Tangier](https://goo.gl/maps/YRKmTzWrUvgV435V8) [(photos)](https://photos.app.goo.gl/38rNoNjtooHrzrgt7)  
+### [Tangier](https://goo.gl/maps/YRKmTzWrUvgV435V8) [(photos)](https://photos.app.goo.gl/38rNoNjtooHrzrgt7)
+Home and resting place of Ibn Battuta.
 The beautiful city by the Gibratar Strait and the Atlantic with a well-preserved old city.
 
 ### [Tetouan](https://goo.gl/maps/GStKwvprP2zcQn1g9)  

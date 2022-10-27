@@ -6,17 +6,35 @@ included: true
 order: 2
 ---
 
-As the world is getting smaller, these pages are getting more details.
+"Life is short, and the world is wide.” – Anonymous
+
+“The world is a book and those who do not travel read only one page.” ― St. Augustine
+
+"Traveling - it gives you home in thousand strange places, then leaves you a stranger in your own land." —  Ibn Battuta
+
+“Traveling – it leaves you speechless, then turns you into a storyteller.” – Ibn Battuta
+
+“Travel far enough, you meet yourself.”― David Mitchell
+
+“To travel is to discover that everyone is wrong about other countries.” – Aldous Huxley
+
+“We live in a world that is full of beauty, charm and adventure. There is no end to the adventures we can have if only we seek them with our eyes open.” ― Jawaharial Nehru
+
+“Travel is fatal to prejudice, bigotry, and narrow-mindedness.” – Mark Twain
+
+“Surely, of all the wonders of the world, the horizon is the greatest.” – Freya Stark
+
+"The traveler sees what he sees. The tourist sees what he has come to see." - GK Chesterton
 
 ## Countries resided or sojourned
 
-Click on any country below to see info and photos of cities or regions stayed.
+Click on any country below to see info and photos of cities or regions stayed.  Though the world is getting smaller, these pages grows with more details.
 
 Sorted by length of stay
 
 ===========================================================================
 
-<span style="font-weight:700;font-size:30px">
+<span style="font-weight:700;font-size:25px">
 [China](/voyage/china) &emsp; 
 [<nobr>United States</nobr>](/voyage/us) &emsp; 
 [Morocco](/voyage/morocco) &emsp; 

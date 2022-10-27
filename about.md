@@ -6,6 +6,8 @@ included: true
 order: 4
 ---
 
+“Live as if you were to die tomorrow.  Learn as if you were to live forever” ― Mahatma Gandhi
+
 ### Education
 BS and MS in Electronic Physics from Peking University, Beijing
 
@@ -33,9 +35,6 @@ Linux, Android, C, C++, Java, Kotlin, Python, Julia, Jetpack Compose, Flutter/Da
 
 ### Hobbies
 Music, violin, yoga, reading, running, swimming, bicycling, nature
-
-### Life Motto
-“Live as if you were to die tomorrow.  Learn as if you were to live forever”
 
 ### Contact
 gmail: xilin.jia+io at gmail dot com
