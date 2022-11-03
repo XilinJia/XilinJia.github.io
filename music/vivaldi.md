@@ -10,7 +10,7 @@ Links below to the music may or may not be the best performance or the complete 
 A lot of violin concertos
 
 [L'estro Armonico](https://www.youtube.com/watch?v=TEn5xxIBxI0)
-Again, the Oistrakhs gave a wonderful performance of the double vercertos, [here](https://www.youtube.com/watch?v=BTazrK7d5BU)
+Again, the Oistrakhs gave a wonderful performance of the double concertos, [here](https://www.youtube.com/watch?v=BTazrK7d5BU)
 
 [La Stravaganza](https://www.youtube.com/watch?v=ETe4xB4uJGg)
 

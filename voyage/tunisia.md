@@ -23,9 +23,9 @@ To the north east of Tunis, the site of a very ancient civilzation that invented
 
 ### [Kairouan](https://goo.gl/maps/Nm99QeNLgFP8My5h8)  
 
-### [El Jem](https://goo.gl/maps/tMJ9x41EYnNuCRiV8) 
+### [El Jem](https://goo.gl/maps/tMJ9x41EYnNuCRiV8) [(Photos)](https://photos.app.goo.gl/ufjCc4mmyvPFBJz4A)
 
-### [Tozeur](https://goo.gl/maps/2GjfBSNLDBRkSCFy8)  
+### [Tozeur](https://goo.gl/maps/2GjfBSNLDBRkSCFy8) [(Photos)](https://photos.app.goo.gl/4xBwjsaJ1C7iHTMH8) 
 
-### [Djerba](https://goo.gl/maps/81ipfk8gRR4KJ8pC8)
+### [Djerba](https://goo.gl/maps/81ipfk8gRR4KJ8pC8) [(Photos)](https://photos.app.goo.gl/p9rYRYEJpBp2ywiQA)
 

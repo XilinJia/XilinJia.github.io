@@ -10,11 +10,13 @@ Various visits, plus driving through to Thailand, totalling about 3 months
 
 ### [Huay Xai](https://goo.gl/maps/VPk12QvcASLaRdwc9)
 
-### [Luang Prabang](https://goo.gl/maps/5yGsQ2hmuYLqWuV2A)
+### [Luang Prabang](https://goo.gl/maps/5yGsQ2hmuYLqWuV2A) [(Photos)](https://photos.app.goo.gl/At1bK33VpSTHH7Mx8)
 
 ### [Vang Vieng](https://goo.gl/maps/8J12NX9SpurL2dFb9)
 
 ### [Vientiane](https://goo.gl/maps/a3Gg2k298S7qYUZu8)
+
+### [Thakhet](https://goo.gl/maps/2HooDQYcv3HjWN9s8)
 
 ### [Savannakhet](https://goo.gl/maps/tW2Y1VmiwRxA2gmq6)
 
