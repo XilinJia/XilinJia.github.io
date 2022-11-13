@@ -28,3 +28,4 @@ Links below to the music may or may not be the best performance or the complete 
 [Verdi - Rigoletto](https://www.youtube.com/watch?v=bpeRxT3qG54)
 
 [Bizet - Carmen](https://www.youtube.com/watch?v=Lw1_GXU_rAQ)
+If you like the opera, don't miss the wonderful [Carmen Fantasy by Sarasate](https://youtu.be/QfKdRlvpWBQ)

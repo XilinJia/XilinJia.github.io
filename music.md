@@ -24,6 +24,8 @@ order: 4
 
 ## My favorites (an incomplete list)
 
+### Classical
+
 <span style="font-weight:700;font-size:25px">
 [<nobr>JS Bach</nobr>](/music/bach) &emsp; 
 [Vivaldi](/music/vivaldi) &emsp; 
@@ -34,3 +36,6 @@ order: 4
 [Rachmaninov](/music/rachmaninov) &emsp;
 [Operas](/music/opera) &emsp; 
 </span>
+
+### [Bollywood](/music/bollywood.md)
+
