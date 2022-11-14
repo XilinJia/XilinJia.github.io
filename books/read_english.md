@@ -3,7 +3,9 @@ layout: page
 title: Books read
 ---
 
-### A partial list
+A partial list:
+
+### General
 
 Lao Tzu - Tao Te Ching
 
@@ -19,8 +21,6 @@ Sadhguru - Inner Engineering: A Yogi's Guide to Joy
 
 Vivekananda - Vedanta Philosophy
 
-Alexander - Market Models - A Guide To Financial Data Analysis
-
 Leinweber - Nerds On Wall Street - Math, Machines And Wired Markets (2009)
 
 Lowenstein - When Genius Failed - The Raise and Fall of Long Term Capital Management
@@ -29,25 +29,142 @@ Patterson - The Quants - How a New Breed of Math Whizzes Conquered Wall Street a
 
 Levitt & Dubner - Freakonomics - A Rogue Economist Explores the Hidden Side of Everything
 
+Bouchentouf - Commodities for Dummies
+
+O'Neil - How to Make Money in Stocks A Winning System in Good Times or Bad
+
+WILLIS - Insider's Guide to Trading the World's Stock Markets (2001)
+
+Bernstein - Against the Gods - The Remarkable Story of Risk
+
+Mauboussin - More Than You Know - Finding Financial Wisdom in Unconventional Places (2006)
+
+Masterson - Automatic Wealth - The Six Steps to Financial Independence 2005
+
+Pring - Investment Psychology Explained, Classic Strategies To Beat The Markets
+
+Friedman - The Next 100 Years: A Forecast for the 21st Century
+
+Montier - The Little Book of Behavioral Investing
+
+Kazanjian - The Market Masters - Wall Street's Top Investment Pros Reveal How To Make Money In Both Bull And Bear Markets
+
+Dorsey - The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market
+
+Futia - The Art of Contrarian Trading - How to Profit from Crowd Behavior in the Financial Markets
+
+Nofsinger - Investment Madness - How Psychology Affects Your Investing and What to Do About It
+
+Mallaby - More Money Than God - HEDGE FUNDS AND THE MAKING OF A NEW ELITE (2010)
+
+waitzkin - The art of learning
+
+Gilovich - How We Know What Isn't So - The Fallibility of Human Reason in Everyday Life
+
+Eiffert - Cross-Train Your Brain - A Mental Fitness Program For Maximizing Creativity And Achieving Success
+
+Chopra - The Seven Spiritual Laws Of Success
+
+Arden - Rewire Your Brain - Think Your Way to a Better Life (2010)
+
+Ariely - Predictably Irrational - The Hidden Forces That Shape Our Decisions (2008)
+
+Hill - Think & Grow Rich
+
+Tolle - The Power Of Now
+
+Buzan - The Speed Reading Book
+
+Brown - Six Degrees of Idiocy
+
+Mauboussin et.al - babe ruth Effect
+
+Belsky & Gilovich - Why Smart People Make Big Money Mistakes and How to Correct Them (scanned)
+
+Hubbard - The Way to Happiness (Scientology)
+
+Teseo - LRS + R-Squared = The 95% Solution
+
+Chopra - The Book of Secrets - unlocking the Hidden Dimensions of Your Life
+
+Sendak - Where The Wild Things Are
+
+Amen - Change Your Brain Change Your Life (1998)
+
+Sharma - Top 200 Secrets
+
+Byrne - The Secret
+
+Surowiecki - The Wisdom of crowd
+
+Wattles - The Science of Getting Rich
+
+Purohit - The Bhagavad Gita
+
+Allen - Above Life's Turmoil
+
+Shenk - The Genius in All of Us - Why Everything You've Been Told About Genetics, Talents, and IQ is Wrong
+
+Ferris - The 4-Hour Workweek Expanded (2009)
+
+Potts - Vagabonding - an uncommon guide to the art of long-term world travel
+
+Taleb - Fooled By Randomness - The Hidden Role of Chance in the Markets and in Life
+
+Dimson et.al - Triumph of the Optimists - 100 Years of Global Investment Returns
+
+Mackay - Extraordinary Popular Delusions and the Madness of Crowds
+
+Sornette - Why Stock Markets Crash
+
+Fechner - The Little Book Of Life After Death
+
+Ariely - The Upside of Irrationality
+
+PETERSON - Inside the Investors Brain - The Power of Mind Over Money
+
+Levitin - This Is Your Brain on Music - The Science of a Human Obsession (2006)
+
+Gleick - The Information - A History, a Theory, a Flood
+
+Lin Yutang - The Importance of Living
+
+Akerlof & Shiller - Animal Spirits - How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism (small)
+
+Chopra - How To Know God - The Soul's Journey into the Mystery of Mysteries
+
+Chopra - The Science of Balance and Well-Being - Restore your natural mind-body balance to grow younger and live longer
+
+Chopra - Buddha - A Story of Enlightenment
+
+Chopra - The Seven Spiritual Laws of Yoga - A Practical Guide to Healing Body, Mind, and Spirit
+
+Fisher - The Perfect Swarm - The Science of Complexity in Everyday Life (2009)
+
+Dixit & Nalebuff - Thinking Strategically - The Competitive Edge in Business, Politics, and Everyday Life
+
+Lonely Planet - Thailand (14th 2012)
+
+Shefrin - Beyond Greed and Fear - Understanding Behavioral Finance and the Psychology of Investing
+
+
+### Technical
+
+Alexander - Market Models - A Guide To Financial Data Analysis
+
 Mendelsohn - Trend Forecasting with Technical Analysis
 
 McDonnell - Optimal Portfolio Modeling - Models to Maximize Return and Control Risk in Excel and R (2008 Wiley)
 
-Bouchentouf - Commodities for Dummies
-
 Miner - High Probability Trading Strategies - Entry to Exit Tactics for the Forex, Futures, and Stock Markets
 
 Teweles - The Commodity Futures Game [1st Ed, 1969-74]
-
-O'Neil - How to Make Money in Stocks A Winning System in Good Times or Bad
 
 Stridsman - Trading Systems and Money Management
 
 Katsanos - Intermarket Trading Strategies (2008)
 
 Kiev - Trading to Win - The Psychology of Mastering the Markets (1998)
-
-WILLIS - Insider's Guide to Trading the World's Stock Markets (2001)
 
 Coval - A Trader on Wall Street - A Short Term Traders Guide
 
@@ -65,13 +182,9 @@ Kiev - Hedge Fund Masters - How Top Hedge Fund Traders Set Goals, Overcome Barri
 
 Tharp - Money Management Report
 
-Bernstein - Against the Gods - The Remarkable Story of Risk
-
 Kase - Trading With The Odds - Using The Power Of Probability To Profit In The Futures Market
 
 Elder - Come Into My Trading Room A Complete Guide to Trading
-
-Mauboussin - More Than You Know - Finding Financial Wisdom in Unconventional Places (2006)
 
 Hull - Fundamental Of Futures & Options Markets
 
@@ -93,17 +206,9 @@ Steenbarger - Enhancing Trader Performance - Proven Strategies From the Cutting 
 
 Dorsey - Tom Dorsey's Trading Tips - A Playbook for Stock Market Success
 
-Masterson - Automatic Wealth - The Six Steps to Financial Independence 2005
-
 Riordan - Common Sense Commodities Trading with MACD - a lesson on divergence
 
-Pring - Investment Psychology Explained, Classic Strategies To Beat The Markets
-
 Chande - Beyond Technical Analysis; How to Develop and Implement a Winning Trading System
-
-Friedman - The Next 100 Years: A Forecast for the 21st Century
-
-Montier - The Little Book of Behavioral Investing
 
 Morris - Candlestick Charting Explained - Timeless Techniques for trading Stocks and Futures
 
@@ -119,12 +224,6 @@ Crane - Advanced Swing Trading - Strategies To Predict, Identify, And Trade Futu
 
 Vince - The Mathematics of Money Management
 
-Futia - The Art of Contrarian Trading - How to Profit from Crowd Behavior in the Financial Markets
-
-Kazanjian - The Market Masters - Wall Street's Top Investment Pros Reveal How To Make Money In Both Bull And Bear Markets
-
-Dorsey - The Five Rules for Successful Stock Investing - Morningstar's Guide to Building Wealth and Winning in the Market
-
 Demark - New Market Timing Techniques
 
 Bernstein - Stock Market Strategies That Work
@@ -136,8 +235,6 @@ Ehlers - Cybernetic Analysis for Stock and Futures - Cutting-Edge DSP Technology
 Schwager - A Complete Guide to the Futures Markets
 
 Crabel - Day Trading With Short Term Price Patterns And Opening Range Breakout (2002)
-
-Nofsinger - Investment Madness - How Psychology Affects Your Investing and What to Do About It
 
 Chan - Quantitative Trading - How to Build Your Own Algorithmic Trading Business
 
@@ -247,8 +344,6 @@ Elder - Trading For A Living
 
 Fischer - Candlesticks, Fibonacci, And Chart Pattern Trading Tools - A Synergistic Strategy To Enhance Profits And Reduce Risk
 
-Mallaby - More Money Than God - HEDGE FUNDS AND THE MAKING OF A NEW ELITE (2010)
-
 Bellafiore - One good trade
 
 Farley - The Master Swing Trader Toolkit - The Market Survival Guide (2010)
@@ -311,27 +406,9 @@ Paradis - R for Beginners
 
 Hastie et.al - The Elements of Statistical Learning - Data Mining Inference and Prediction (2nd ed 2009)
 
-waitzkin - The art of learning
-
 Brafman - SWAY -The Irresistible Pull of Irrational Behavior
 
-Gilovich - How We Know What Isn't So - The Fallibility of Human Reason in Everyday Life
-
-Eiffert - Cross-Train Your Brain - A Mental Fitness Program For Maximizing Creativity And Achieving Success
-
-Chopra - The Seven Spiritual Laws Of Success
-
 Kiev - The Psychology of Risk - Mastering Market Uncertainty [2002]
-
-Arden - Rewire Your Brain - Think Your Way to a Better Life (2010)
-
-Ariely - Predictably Irrational - The Hidden Forces That Shape Our Decisions (2008)
-
-Hill - Think & Grow Rich
-
-Tolle - The Power Of Now
-
-Buzan - The Speed Reading Book
 
 Carter - Profitable Strategies for Trading
 
@@ -339,13 +416,9 @@ Martinez - The 10 Keys to Successful Trading - Technical Analysis Applications f
 
 Fuller - Behavioral Finance and the Sources of Alpha
 
-Brown - Six Degrees of Idiocy
-
 Sewell - money-management
 
 Star - (ADX + MACD) Stocks And Commodities Magazine Trend Trading Articles
-
-Mauboussin et.al - babe ruth Effect
 
 STENDAHL - Money Management Strategies For Serious Traders
 
@@ -357,49 +430,25 @@ McDowell - Fine Tuning Your Money Management System
 
 Bressert - The 12 Cardinal Mistakes of Commodity Trading
 
-Belsky & Gilovich - Why Smart People Make Big Money Mistakes and How to Correct Them (scanned)
-
 Schwager - The Market Wizards
 
 Tharp & June - Financial Freedom Though Electronic DayTrading
 
 Weissman - Trade Like a Casino - Find Your Edge, Manage Risk, and Win Like the house
 
-Hubbard - The Way to Happiness (Scientology)
-
-Teseo - LRS + R-Squared = The 95% Solution
-
 Greenblatt - The Little Book That Beats the Market [2006]
-
-Chopra - The Book of Secrets - unlocking the Hidden Dimensions of Your Life
-
-Sendak - Where The Wild Things Are
 
 Kiev - The Mental Strategies of Top Traders - The Psychological Determinants of Trading Success
 
-Amen - Change Your Brain Change Your Life (1998)
-
-Sharma - Top 200 Secrets
-
 Schwager - Hedge Fund Market Wizards - How Winning Traders Win
-
-Byrne - The Secret
 
 Rockwell - How To Make Money With Trading Systems
 
 Stridsman - Trading Systems That Work - Building and Evaluating Effective Trading Systems (2001)
 
-Surowiecki - The Wisdom of crowd
-
 Hamilton - Time Series Analysis (vertical)
 
 Mlodinow - The Drunkard's Walk - How Randomness Rules Our Lives
-
-Wattles - The Science of Getting Rich
-
-Purohit - The Bhagavad Gita
-
-Allen - Above Life's Turmoil
 
 Ross - A First Course in Probability (8th ed 2010)
 
@@ -436,8 +485,6 @@ Harrington - Machine Learning in Action
 McKinney - Python for Data Analysis (2013)
 
 Hammer - Architects of Electronic Trading - Technology Leaders Who Are Shaping Today's Financial Markets (2013)
-
-Shenk - The Genius in All of Us - Why Everything You've Been Told About Genetics, Talents, and IQ is Wrong
 
 Ceder - The Quick Python Book (2nd ed 2010)
 
@@ -493,10 +540,6 @@ Young - Jackknife and Bootstrap Resampling Methods in Statistical Analysis to Co
 
 Fitschen - Building reliable trading systems - Tradable Strategies that Perform as They Backtest and Meet Your Risk-Reward Goals (2013)
 
-Ferris - The 4-Hour Workweek Expanded (2009)
-
-Potts - Vagabonding - an uncommon guide to the art of long-term world travel
-
 Douglas - Trading In The Zone - Master The Market With Confidence, Discipline And A Winning Attitude (text)
 
 Douglas - Trading In The Zone - Master The Market With Confidence, Discipline And A Winning Attitude (2 sided)
@@ -504,14 +547,6 @@ Douglas - Trading In The Zone - Master The Market With Confidence, Discipline An
 Edwards, Magee & Bassetti - Technical Analysis of Stock Trends (9th Ed 2007)
 
 Cover & Thomas - Elements of Information Theory (2e 2006)
-
-Taleb - Fooled By Randomness - The Hidden Role of Chance in the Markets and in Life
-
-Dimson et.al - Triumph of the Optimists - 100 Years of Global Investment Returns
-
-Mackay - Extraordinary Popular Delusions and the Madness of Crowds
-
-Sornette - Why Stock Markets Crash
 
 Luenberger & Ye - Linear and Nonlinear Programming (3rd Ed)
 
@@ -521,35 +556,11 @@ Jaynes - Probability Theory - The Logic Of Science
 
 Cull et.al - Difference Equations - From Rabbits to Chaos (Undergraduate Texts in Mathematics)
 
-Fechner - The Little Book Of Life After Death
-
-Ariely - The Upside of Irrationality
-
-PETERSON - Inside the Investors Brain - The Power of Mind Over Money
-
-Levitin - This Is Your Brain on Music - The Science of a Human Obsession (2006)
-
 Schwarz - 40 Puzzles And Problems In Probability And Mathematical Statistics (2008)
-
-Gleick - The Information - A History, a Theory, a Flood
 
 MacKay - Information Theory, Inference and Learning Algorithms
 
-Lin Yutang - The Importance of Living
-
 Shannon - A Mathematical Theory of Communication (1948)
-
-Akerlof & Shiller - Animal Spirits - How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism (small)
-
-Chopra - How To Know God - The Soul's Journey into the Mystery of Mysteries
-
-Chopra - The Science of Balance and Well-Being - Restore your natural mind-body balance to grow younger and live longer
-
-Chopra - Buddha - A Story of Enlightenment
-
-Chopra - The Seven Spiritual Laws of Yoga - A Practical Guide to Healing Body, Mind, and Spirit
-
-Fisher - The Perfect Swarm - The Science of Complexity in Everyday Life (2009)
 
 Kleinbaum & Klein - Survival Analysis - A Self-Learning Text (3rd Ed)
 
@@ -566,8 +577,6 @@ Goodman - Tests Based on the Movements in and the Comovements between m-Dependen
 Williams - The Compleat Strategyst - Being a Primer on the Theory of Games of Strategy
 
 Miller - Game Theory at Work - How to Use Game Theory to Outthink and Outmaneuver Your Competition
-
-Dixit & Nalebuff - Thinking Strategically - The Competitive Edge in Business, Politics, and Everyday Life
 
 Moore et.al - Introduction to the Practice of Statistics (6ed 2009)
 
@@ -616,10 +625,6 @@ Puppert - Statistics and Data Analysis for Financial Engineering
 Pappa & Freitas - Automating the Design of Data Mining Algorithms - An Evolutionary Computation Approach (2009)
 
 Guttag - Introduction to Computation and Programming Using Python (2013)
-
-Lonely Planet - Thailand (14th 2012)
-
-Shefrin - Beyond Greed and Fear - Understanding Behavioral Finance and the Psychology of Investing
 
 Zielesny - From Curve Fitting to Machine Learning - An Illustrative Guide to Scientific Data Analysis and Computational Intelligence (2011)
 

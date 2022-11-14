@@ -3,8 +3,7 @@ layout: page
 title: 讀過的書
 ---
 
-
-### 部分清單
+部分清單：
 
 羅貫中　－　三國演義
 
@@ -19,6 +18,14 @@ title: 讀過的書
 余邵魚　＆　馮夢龍　－　東周列國志
 
 Chopra - 欢喜活力 - 精力无限的完全身心计划 (Boundless Energy)
+
+Ariely - 怪诞行为学
+
+Zweig - 当大脑遇到金钱
+
+Shefrin - 超越恐惧和贪婪 (Beyong Greed and Fear)
+
+手岛佑郎 - 犹太人为什么伓秀 (What's Behind Jewish Excellence)
 
 Niederhoffer - 投机生涯 (The Education of a Speculator)
 
@@ -39,14 +46,6 @@ Edwards & Magee - 股市趋势技术分析 (Technical Analysis of Stock Trends)
 Kroll - 期货交易策略 (Futures Trading Strategy)
 
 Niederhoffer - 华尔街赌局 - 传奇交易家的实战投机术
-
-Ariely - 怪诞行为学
-
-Zweig - 当大脑遇到金钱
-
-Shefrin - 超越恐惧和贪婪 (Beyong Greed and Fear)
-
-手岛佑郎 - 犹太人为什么伓秀 (What's Behind Jewish Excellence)
 
 黄伙胜 - 日内交易系统的设计
 
