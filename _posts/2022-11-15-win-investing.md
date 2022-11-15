@@ -2,7 +2,7 @@
 layout: post
 title:  "A winning approach to investing"
 date:   2022-11-14 09:59:30 +0100
-tags:   invest
+tags:   invest market
 ---
 
 While you might have heard of many winning approaches, this one is not too complicated.
