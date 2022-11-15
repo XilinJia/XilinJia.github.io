@@ -7,7 +7,7 @@ tags:   invest market
 
 While you might have heard of many winning approaches, this one is not too complicated.
 
-#### Put it simply: Go against the crowds.
+#### Put it simple: Go against the crowds.
 
 Explanation: when the crowds say sell or not buy, consider about buying; when the crowds say buy or not sell, consider about selling.
 
