@@ -5,13 +5,11 @@ title: Bollywood
 
 An incomplete list
 
-Links below to the music may or may not be the best performance or the complete recording of the music.
-
 [Chal Chaiya Chaiya](https://youtu.be/APo73rlxWaE)
 And all from movie Dil se, 1998
 
 [Kaise Mujhe](https://youtu.be/uC1iJcYOyeY)
-From movie Ghajini, 2008
+And many from movie Ghajini, 2008
 
 [Chand Sifarish](https://youtu.be/zWEOx7TSM6I)
 And all from movie Fanaa, 2006
@@ -52,7 +50,7 @@ And all from movie Jab Tak Hai Jaan
 [Main Yahaan Hoon](https://youtu.be/m6Y8xEfyXTs)
 And all from movie Veer-Zaara
 
-[Nagada Sang Dhol](https://youtu.be/vK5E_aeBGYA)
+[Tattad Tattad](https://youtu.be/sIooFGRBZJY)
 And many from movie Goliyon Ki Rasleela Ram-leela
 
 [Chittiyaan Kalaiyaan](https://youtu.be/zpsVpnvFfZQ)
@@ -126,3 +124,27 @@ And many from movie Rab Ne Bana Di Jodi
 
 [Dil Tu Hi Bataa](https://youtu.be/Hievfejv90c)
 And many from movie Krrish 3
+
+[Tuhi Meri Shab Hai](https://youtu.be/2bVo3ID_UpU)
+And many from movie Gangster A Love Story
+
+[Ae Dil Hai Mushkil](https://youtu.be/6FURuLYrR_Q)
+And many from movie Ae Dil Hai Mushkil
+
+[Hua Hain Aaj Pehli Baar](https://youtu.be/DGVJtAHzzDQ)
+And many from movie SANAM RE
+
+[Kashmir Main Tu Kanyakumari](https://youtu.be/dodDteh-m3Q)
+And many from movie Chennai Express
+
+[Manwa Laage](https://youtu.be/d8IT-16kA8M)
+And many from movie Happy New Year
+
+[Tum Tak](https://youtu.be/k09uvR5eUao)
+And many from movie Raanjhanaa
+
+[Bheegi Si Bhaagi Si](https://youtu.be/yHWPO9DDnsk)
+And many from movie Raajneeti
+
+[Devil-Yaar Naa Miley](https://youtu.be/iMmKHLFZn10)
+And many from movie Kick
