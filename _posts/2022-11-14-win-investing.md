@@ -37,7 +37,7 @@ On the other hand, when everyone talks about buying or selling, the price can go
 
 #### Can I buy stocks with this approach?
 
-While this approach works better on most investment vehicles, it helps only to certain extent for individual stocks, as a stock in a developed market is more influenced by what and how the business is doing, and in an emerging market is more influenced by the speculation forces behind.  Take the case of Eastman Kodak, its stock was depressed as mot many wanted to buy it when digital camera got popular, so eventually, the company went bankrupt.  In Apple's case, when its computers couldn't compete well with the WinTel ones, its stock was very depressed for long also as not many people wanted to buy it until Steve Jobs resurrected it with a different strategy.  So in the case of individual stocks, you need to pay more attention to other factors aside from using this approach.
+While this approach works better on most investment vehicles, it helps only to certain extent for individual stocks, as a stock in a developed market is more influenced by what and how the business is doing, and in an emerging market is more influenced by the speculation forces behind.  Take the case of Eastman Kodak, its stock was depressed as not many wanted to buy it when digital camera got popular, so eventually, the company went bankrupt.  In Apple's case, when its computers couldn't compete well with the WinTel ones, its stock was very depressed for long also as not many people wanted to buy it until Steve Jobs resurrected it with a different strategy.  So in the case of individual stocks, you need to pay more attention to other factors aside from using this approach.
 
 #### Why does it work at all?
 
