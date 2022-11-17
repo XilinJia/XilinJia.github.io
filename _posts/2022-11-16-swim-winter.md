@@ -2,7 +2,7 @@
 layout: post
 title:  "Swim in winter?"
 date:   2022-11-16 09:54:30 +0100
-tags:   swim
+tags:   swim sport
 ---
 
 No, I am not in Thailand, nor any other tropical region.
@@ -13,7 +13,7 @@ It was mid April 2019 when I took a boat tour in southwest small town of [Ölüd
 
 Another time was early August of 2019 when I was at [Kravica Waterfall](https://goo.gl/maps/FD367gFRWBnmQoSy7) outside of Mostar in Bosnia and Herzegovina.  It was hot in air, probably 30&deg;C, but the water was freezing even when it was just ankle deep.  Some said it was 12&deg;C.  There are a lot of underground rivers in the country that flow to the surface at some places.  This must be it.  So I tried swimming for 15 minutes, feeling much colder than in Ölüdeniz.
 
-So these two experiences tell me it's OK to swim in the 16&deg;C water.  I do it whenever the condition is good: sunny, calm sea, clear water, and without medusa.
+So these two experiences tell me it's OK to swim in the 16&deg;C water.  I do it whenever the condition is good: sunny, calm sea, clear water, and without medusa.  An interesting sensation is that when there is wind the skin feels like being smeared with spices.
 
 Reportedly, there are many benefits of swimming in cold water, including improving the metabolism, boosting the immune system, maintaining body shape, getting mental clarity, etc.  More about it [here](https://www.orca.com/en-int/blog/tips-for-swimming-in-cold-water)
 
