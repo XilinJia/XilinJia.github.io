@@ -6,20 +6,18 @@ title: China
 ## [Map & Intro](https://goo.gl/maps/vTUQtzAE24vrnWG78)
 
 ### [Harbin](https://goo.gl/maps/RgSLbvTJa23sWhqx9)
-It's the city where I was born and grew up until going to university.
+By the Songhua River, it was historically the center of Manchu (the ethnic people having ruled China for ~300 years in the Qing Dynasty).  The people in this city speak the most perfect Mandarin, the official Chinese language.  
 
-By the Songhua River, it was historically the center of Manchu (the ethnic people having ruled China for ~300 years in the Qing Dynasty).  The people in this city speak the most perfect Mandarine, the official Chinese language.  
-
-Later, it had heavy influence from both Russia and Japon.  Till today, the influences are still visible.
+Later, it had heavy influence from both Russia and Japan.  Till today, the influences are still visible.
 
 ### [Beijing](https://goo.gl/maps/VaVb1NvrPwfKGX2K9)
 It's the city where I spent 8 yeas to study for my bachelor's and master's degree at Peking University and later 5 years after I was dispatched from the US to manage for the American businesses.
 
 ### [Shanghai](https://goo.gl/maps/WnCxsjRFqfQrLah17)
-The city where I often travelled for business and secured large and strategic contracts from a strategic customer for the US business.
+The city where I often traveled for business and secured large and strategic contracts from a strategic customer for the US business.
 
 ### [Jinghong](https://goo.gl/maps/HA2DErZYrgFQkRHTA)
-The city where I settled to conduct my adventure in machine learning for financial trading.  At the very south of China in the tropic region with the indigenous people of Thais, the qualities of air, water and environment were far superior than most parts of the country.
+At the very south of China in the tropic region with the indigenous people of Thais, the qualities of air, water and environment were far superior than most parts of the country.
 
 ## North
 

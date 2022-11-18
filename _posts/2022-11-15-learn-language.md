@@ -12,10 +12,10 @@ But a task that can be simply described doesn't mean it can be carried out easil
 #### But we are not dealing with learning a language in 10 years.
 
 There are some online courses or apps providing course material for teaching specific languages, most notable being DuoLingo and Memrise.  These could help someone to get quick grasp of a language in a couple years.  But due to limited material, the skill level one can reach with these courses is limited.  One is likely to comprehend things like: 
->"How is the weather like today?  Oh, it's raining.  It'll be sunny tomorrow."
+```How is the weather like today?  Oh, it's raining.  It'll be sunny tomorrow.```
 
 But he will have a hard time understanding things like:
->"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." -Mark Twain
+```Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover. -Mark Twain```
 
 Undeniably, some skills like in a language requires lifelong learning to be perfected.  The purpose of this discussion is how one can learn just about any language to near advanced levels in a couple years without having to spend his entire time and with any material that he (or an educator) compiles.
 

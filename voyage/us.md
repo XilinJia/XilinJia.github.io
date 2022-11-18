@@ -6,7 +6,7 @@ title: United States
 ## [Map & Intro](https://goo.gl/maps/UiVv5USmXuKwoeer7)
 
 ### [Hanover, NH](https://goo.gl/maps/6ohMBV3KQwMqE1wD6)
-Spent nealy 4 years to study for my PhD at Thayer School of Engineering of Dartmouth College
+Spent nearly 4 years to study for my PhD at Thayer School of Engineering of Dartmouth College
 
 ### [Gaithersburg, MD](https://goo.gl/maps/AaBY4uXJvpvcGo9K6)
 Lived for over 3 years working at high-tech companies around greater DC, where I was involved in a pioneering development of terrain visualization software for mission-critical operations
