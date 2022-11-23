@@ -6,25 +6,27 @@ included: true
 order: 5
 ---
 
+#### [Français](/about/french.md) &emsp;  [Deutsch](/about/german.md)
+
 “Live as if you were to die tomorrow.  Learn as if you were to live forever” ― Mahatma Gandhi
 
 ### Education
-BS and MS in Electronic Physics from Peking University, Beijing
+BS and MS in Electrical and Electronic Engineering from Peking University, Beijing, China
 
-PhD in Engineering Sciences from Dartmouth College specializing in 3D computer simulation and modeling of cancer treatment, New Hampshire
+PhD in Engineering Sciences from Dartmouth College specializing in 3D computer simulation and modeling of cancer treatment, New Hampshire, USA
 
 ### Experiences
 Pioneer in 3D ultra high-resolution terrain visualization software for mission-critical operations, Northern Virginia
 
-Pioneer in true 3D animation software for TV weather presentations, Massachusetts
+Pioneer in true-3D animation software for TV weather presentations, Massachusetts
 
-General manager of entire country business for a multi-national IT company head-quartered in California and Paris, Beijing
+General manager of entire country business for a multinational IT company headquartered in California and Paris, Beijing
 
-Independent adventurer of machine learning in financial trading, concentrated on automated generation and evaluation of strategies as well as implementation and operation of automated trading platforms, Yunnan
+Independent adventurer of data analysis and machine learning in financial trading, concentrated on automated generation and evaluation of strategies as well as implementation and operation of automated trading platforms, Yunnan
 
-Digital nomad and long-term world traveler with extended experiences in 30 countries and extensive development of software, open-source or proprietary, in machine learning, automated eLearning and Android.
+Digital nomad and long-term world traveler with extended experiences in 30 countries and extensive development of software, open-source or proprietary, in data analysis, machine learning, eLearning of languages and Android.
 
-### Computer skills: 
+### Computer skills
 Linux, Android, C, C++, Java, Kotlin, Python, Julia, Jetpack Compose, Flutter/Dart
 
 ### Language skills
