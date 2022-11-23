@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Um
+title: Bio
 ---
 
-#### [English](../about.md) &emsp;  [Français](/french.md)
+#### [English](../bio.md) &emsp;  [Français](/french.md)
 
 „Lebe, als würdest du morgen sterben. Lerne, als würdest du ewig leben“ – Mahatma Gandhi
 

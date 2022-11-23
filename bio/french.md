@@ -1,9 +1,9 @@
 ---
 layout: page
-title: À propos de
+title: Bio
 ---
 
-#### [English](../about.md) &emsp;  [Deutsch](/german.md)
+#### [English](../bio.md) &emsp;  [Deutsch](/german.md)
 
 
 "Vis comme si tu allais mourir demain. Apprenez comme si vous deviez vivre éternellement » - Mahatma Gandhi

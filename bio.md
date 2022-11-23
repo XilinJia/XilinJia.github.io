@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Bio
+permalink: /bio/
 included: true
 order: 5
 ---
 
-#### [Français](/about/french.md) &emsp;  [Deutsch](/about/german.md)
+#### [Français](/bio/french.md) &emsp;  [Deutsch](/bio/german.md)
 
 “Live as if you were to die tomorrow.  Learn as if you were to live forever” ― Mahatma Gandhi
 
