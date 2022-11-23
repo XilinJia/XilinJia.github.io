@@ -6,7 +6,7 @@ title: Bio
 #### [English](../bio.md) &emsp;  [Deutsch](/german.md)
 
 
-"Vis comme si tu allais mourir demain. Apprenez comme si vous deviez vivre éternellement » - Mahatma Gandhi
+"Vis comme si tu devais mourir demain. Apprends comme si tu devais vivre toujours » - Mahatma Gandhi
 
 ### Éducation
 
