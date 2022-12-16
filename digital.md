@@ -14,6 +14,9 @@ An Android app for keeing diary in 8 dimensions: time, event, location, note, ph
 ### [TransGrub](https://github.com/XilinJia/TransGrub)
 An multi-platform bilingual word spelling game written in Python for Android, iOS, Linux, macOS and Windows..
 
+### [OpenGL-Dancing](https://github.com/XilinJia/OpenGL-Dancing)
+An animated artwork created with OpenGL 4.6 and C++.
+
 ### [Python3-PyOpenGL-Tutorial](https://github.com/XilinJia/Python3-PyOpenGL-Tutorial)
 A 10-stage OpenGL (or rather, PyOpenGL) tutorial for Python 3 and OpenGL 4.6
 
