@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Money is spiritual"
-date:   2022-10-11 10:36:30 +0100
+date:   2023-01-03 21:23:30 +0100
 tags:   money, spiritual
 ---
 
