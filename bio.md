@@ -35,7 +35,7 @@ Linux, Android, C, C++, Java, Kotlin, Python, Julia, Jetpack Compose, Flutter/Da
 * French (sophisticated reading and simple conversation)
 * German (Simple reading and rudimentary conversation)
 
-### Hobbies
+### Avocation
 Music, violin, yoga, reading, running, swimming, bicycling, nature
 
 ### Contact

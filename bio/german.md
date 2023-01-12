@@ -36,7 +36,7 @@ Linux, Android, C, C++, Java, Kotlin, Python, Julia, Jetpack Compose, Flutter/Da
 * Französisch (anspruchsvolles Lesen und einfache Konversation)
 * Deutsch (einfaches Lesen und rudimentäre Konversation)
 
-### Hobbys
+### Nebenbeschäftigungen
 
 Musik, Geige, Yoga, Lesen, Laufen, Schwimmen, Radfahren, Natur
 

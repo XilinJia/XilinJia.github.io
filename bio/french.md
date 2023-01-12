@@ -37,7 +37,7 @@ Linux, Android, C, C++, Java, Kotlin, Python, Julia, Jetpack Compose, Flutter/Da
 * Français (lecture avancée et conversation simple)
 * Allemand (Lecture simple et conversation rudimentaire)
 
-### Passe-temps
+### Avocation
 
 Musique, violon, yoga, lecture, course, natation, vélo, nature
 
