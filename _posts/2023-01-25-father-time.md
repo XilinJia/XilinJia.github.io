@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How much time have your spent with your father?"
+title:  "How much time have you spent with your father?"
 date:   2023-01-25 21:30:30 +0100
 tags:   father, time
 ---
@@ -21,27 +21,27 @@ Then during the age of 8 and 18, I went to schools, also splitting the years hal
 
 During all the above 7 years, my parents had been very busy with work and I had been busy with school or playing with school mates.  I estimate about 6 hours daily (not counting sleep time) when I and my father were at the same vicinity (in or around the house), and about 3 hours daily when we did something together (eating, talking, playing etc. and we didn't have TV to watch together).
 
-##### ~ 7 years, 15330 hours nearby, 7665 hours direct
+##### ~ 7 years: 15330 hours nearby, 7665 hours direct
 
 Then from 18 to 26, I studied in university in another city and have been back home during school holidays most of the times.  So that's about 1 year added up.  And the time on a daily bases is about the same as in previous periods.
 
-##### ~ 8 years, 17520 hours nearby, 8760 hours direct
+##### ~ 8 years: 17520 hours nearby, 8760 hours direct
 
 At gae of 26 I went to America to study and then lived there to 37, and I had no time to see my parents.
 
-##### ~ 8 years, 17520 hours nearby, 8760 hours direct
+##### ~ 8 years: 17520 hours nearby, 8760 hours direct
 
 Between 37 and 42, I went to China to work for multi-national companies in a different city from my parents, and I have seen my parents less than half a month.
 
-##### ~ 8 years, 17650 hours nearby, 8850 hours direct
+##### ~ 8 years: 17650 hours nearby, 8850 hours direct
 
 After I started tending my own business, I had some quality time with my parents.  But I lived in another city, so the total time together is about 1 year.  Daily nearby time was like 14 hours and daily direct time 10 hours.
 
-##### ~ 9 years, 22760 hours nearby, 12250 hours direct
+##### ~ 9 years: 22760 hours nearby, 12250 hours direct
 
 Then for many years I have been a digital nomad and traveling the world, I only saw them on video calls.
 
-##### ~ 9 years, 22810 hours nearby, 12300 hours direct
+##### ~ 9 years: 22810 hours nearby, 12300 hours direct
 
 And I wasn't with him when he moved on.
 
