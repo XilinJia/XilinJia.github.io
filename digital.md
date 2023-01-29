@@ -41,4 +41,4 @@ A multi-platform word translator developed in Python for Android, iOS, Linux, ma
 A powerful language learning app for Android written in Kotlin and Jetpack Compose.  The app helped me reaching advanced levels of reading comprehension in French in 1.5 years.  App to be published.
 
 ### [XJ-Strategist](https://github.com/XilinJia/XJ-Strategist)
-A powerful machine learning system for constructing and analyzing strategies for financial trading.
+A powerful machine learning system for constructing sustainable trading strategies suitable for various instruments.
