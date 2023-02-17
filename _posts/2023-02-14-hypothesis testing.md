@@ -33,13 +33,17 @@ Now you are back to bet blindly.  But say somehow a sequence of 0's and 1's came
 
 Now let's go back to trading.  Say every day you receive an insider tip on some stock and you know 60% of the tips are reliable or valid and the amounts of profit and loss are the same on each trade.  Let's not say if it's legal or not, but would this be a good strategy for you?  No question right?  Would you want to go through the test to see if it's valid or not?
 
-Now let's stay legal, shall we?  Say you discovered a stock that in the past year went up one day and down the next day and repeated and no one found out about it.  So you defined your trading strategy to buy when it's down and sell when it's up.  Put in the statistical test, the strategy ranks within the top 1% among random strategies.  Would you trust it as having merit going forward?
+Now let's stay legal, shall we?  Say you discovered a stock that in the past year moved in small trends like the following: up 5%, down %3, up 7%, down 4%, up 6%, down %4, up 8%, down 4%, ...  So you defined your buy sell strategy.  Put in the statistical test, the strategy ranks within the top 1% among random strategies.  Would you trust it as having merit going forward?
 
 To summarize, what I am trying to say is whether a strategy has some merit depends on how much advantage it has in its essence.  The statistical hypothesis testing doesn't provide much help.
 
 Why are the testing procedures largely adopted by the scientific communities but not helpful in trading?
 
-This is surely a deep question that deserves expanded reasoning.  For some quick point here, I would say one clear difference between science (natural science in particular) and trading is that science is about something existing and trading is about changes in the future.  We human being have figured out some ways to glimpse into the future albeit only minimally.  Great traders learn to take advantage of this minimal advantage to profit.  However the testing procedures require us to have extremely clear pictures into the future in order to beat most of the random bets, essentially require all of us to be prophets.  So that's where it fails and becomes not helpful.
+This is surely a deep question that deserves expanded reasoning.  For some quick point here, I would point at one clear difference.  Science projects use the testing procedures on something existing at the present.  Be it Higgs Boson, or gene sequences, or even your football kick skills.  When you put the present truths against the random statements, truths are to stand out.  Whereas in trading or betting the focus is on changes in the future.  We human being have figured out some ways to glimpse into the future albeit only minimally.  Great traders learned to take advantage of this minimal advantage to profit.  So our capacity on grasping the target (future) is largely diminished compared to that about the present, at the same time the power of randomness stays the same on the future as on the present.  However the testing procedures still require us beating the power of randomness, that's essentially requiring us to have extreme clarity about the future, but few of us are prophets and few of our strategies can have prophetic power.  So that's where it fails and becomes not helpful.
+
+A takeaway from this is: 
+
+Any strategy appearing superbly performing is likely not valid, and a poor strategy might be a real treasure.
 
 
 ## Cheers!  Santé!  Prost!
