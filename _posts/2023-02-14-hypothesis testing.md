@@ -7,7 +7,7 @@ tags:   trading market stocks
 
 Any sophisticated trader or developer of trading strategies has experienced the exuberance with the discovery of a superb trading strategy that would surely make him rich and later the setbacks or disappointments in the real performance of his wonderful strategy.  In real trading, at best, the strategy makes him little money, and at worse, loses him a lot of money.
 
-Out protagonist is John.  He has come to an advanced stage of trading (who else inferior to him can come up with such a superb strategy?) and known to conduct serious testing with his strategies.  He is baffled by the results and can't understand why.  Then, through research, he discovered this ultimate tool called statistical hypothesis testing.  Reportedly, successful hedge funds use it to validate their strategies.  Plus, according to academic papers, it's the methodology used widely by the large scientific community to confirm, for instance the discovery of Higgs Boson particles or genes related to particular genetic diseases or at least the effectiveness of drugs.
+Out protagonist John has come to an advanced stage of trading (who else inferior to him can come up with such a superb strategy?) and known to conduct serious testing with his strategies.  He is baffled by the results and can't understand why.  Then, through research, he discovered this ultimate tool called statistical hypothesis testing.  Reportedly, successful hedge funds use it to validate their strategies.  Plus, according to academic papers, it's the methodology used widely by the large scientific community to confirm, for instance the discovery of Higgs Boson particles or genes related to particular genetic diseases or at least the effectiveness of drugs.
 
 So What is statistical hypothesis testing?  
 
@@ -33,7 +33,7 @@ Now you are back to bet blindly.  But say somehow a sequence of 0's and 1's came
 
 Now let's go back to trading.  Say every day you receive an insider tip on some stock and you know 60% of the tips are reliable or valid and the amounts of profit and loss are the same on each trade.  Let's not say if it's legal or not, but would this be a good strategy for you?  No question right?  Would you want to go through the test to see if it's valid or not?
 
-Now let's stay legal, shall we?  Say you discovered a stock that in the past year moved in small trends like the following: up 5%, down %3, up 7%, down 4%, up 6%, down %4, up 8%, down 4%, ...  So you defined your buy sell strategy.  Put in the statistical test, the strategy ranks within the top 1% among random strategies.  Would you trust it as having merit going forward?
+Now let's stay legal, shall we?  Say you discovered a stock that in the past year moved in small trends like the following: up 5%, down %3, up 7%, down 4%, up 6%, down %4, up 8%, down 4%, ...  So you defined your buy sell strategy based on this discovery.  Put in the statistical test, the strategy ranks within the top 1% among random strategies.  Would you trust it as having merit going forward?
 
 To summarize, what I am trying to say is whether a strategy has some merit depends on how much advantage it has in its essence.  The statistical hypothesis testing doesn't provide much help.
 
