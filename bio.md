@@ -33,7 +33,7 @@ Linux, Android, C, C++, Java, Kotlin, Python, Julia, Jetpack Compose, Flutter/Da
 * English (fluent)
 * Chinese (native)  
 * French (sophisticated reading and simple conversation)
-* German (Simple reading and rudimentary conversation)
+* German (Intermediate reading and simple conversation)
 
 ### Avocation
 Music, violin, yoga, reading, running, swimming, bicycling, nature
