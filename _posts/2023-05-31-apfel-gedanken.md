@@ -6,12 +6,12 @@ tags:   thoughts
 ---
 
 The other day, I learned this random German sentence:
-> ==Wenn du und ich jeweils einen Apfel haben und wir diese Äpfel tauschen, dann haben wir noch immer jeweils einen Apfel. Wenn du und ich aber jeweils einen Gedanken haben und wir diese Gedanken tauschen, dann hat jeder von uns zwei Gedanken.==
+> **Wenn du und ich jeweils einen Apfel haben und wir diese Äpfel tauschen, dann haben wir noch immer jeweils einen Apfel. Wenn du und ich aber jeweils einen Gedanken haben und wir diese Gedanken tauschen, dann hat jeder von uns zwei Gedanken.**
 
 It's translated into English as:
-> ==If you and I each have an apple and we trade those apples, we still have an apple each. But if you and I each have one thought and we exchange these thoughts, then each of us has two thoughts.==
+> **If you and I each have an apple and we trade those apples, we still have an apple each. But if you and I each have one thought and we exchange these thoughts, then each of us has two thoughts.**
 
-I didn't know who had said this.  Googled and found it was by ==George Bernard Shaw==.
+I didn't know who had said this.  Googled and found it was by **George Bernard Shaw**.
 
 ### Excellent thoughts!
 
@@ -37,7 +37,7 @@ With the exchange (of the old thoughts), each of us has two old thoughts plus fo
 
 And the thought creation and exchange can go on to infinite rounds.
 
-So these are the power from the teaching of ==George Bernard Shaw==.
+So these are the power from the teaching of **George Bernard Shaw**.
 
 #### Gedanke and thought vs Apfel and apple
 
@@ -47,7 +47,7 @@ The benefits from goods production and exchange are linearly related to the amou
 
 We see from history revolutions resulting from thought progresses realized jumps in civilization advancements.  It will continue in the future.
 
-==Gedanke and thought always trump Apfel and apple.==
+**Gedanke and thought always trump Apfel and apple.**
 
 #### Investment advices
 
