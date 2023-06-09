@@ -5,7 +5,7 @@ date:   2023-05-31 17:26:30 +0100
 tags:   thoughts
 ---
 
-The other day, I learned this random German sentence:
+The other day, I came cross this German sentence:
 > **Wenn du und ich jeweils einen Apfel haben und wir diese Äpfel tauschen, dann haben wir noch immer jeweils einen Apfel. Wenn du und ich aber jeweils einen Gedanken haben und wir diese Gedanken tauschen, dann hat jeder von uns zwei Gedanken.**
 
 It's translated into English as:
